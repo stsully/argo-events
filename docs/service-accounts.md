@@ -56,7 +56,7 @@ trigger, make sure to grant `create` permission to that resource.
 For these triggers, you **don't** need to specify a Service Account to the
 Sensor.
 
-## Service Account for Trigged Workflows (or other K8s resources)
+## Service Account for Triggered Workflows (or other K8s resources)
 
 When the Sensor is used to trigger a Workflow, you might need to configure the
 Service Account used in the Workflow spec (**NOT**
